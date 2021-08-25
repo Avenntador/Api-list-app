@@ -1,0 +1,40 @@
+table {
+  border: solid 1px black;
+  margin: 30px auto;
+  width: 100%;
+}
+
+td {
+  border: solid 1px black;
+  text-align: center;
+} 
+
+.table-key {
+  width: 100px;
+}
+
+.categories {
+  border: solid 1px black;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.note-param {
+  text-align: center;
+  font-size: 15px;
+}
